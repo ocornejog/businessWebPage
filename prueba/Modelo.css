@@ -1,0 +1,38 @@
+@charset="UTF-8";
+body{
+	background:url(IMAGEN.jpg);
+	padding: 5;
+	margin: 2;
+	font-family: Times New Roman;
+}
+#contenedor{
+	background: #FFB6C1;
+	border:1px solid;
+	margin: auto;
+	width: 80%;
+	min-height:300px;
+}
+ul{
+	background:#632432;
+	border: 1px solid;
+	height: 50px;
+	padding:0;
+	margin: 0;
+	list-style:none;
+	text-align:center;
+	width:100%;
+}
+li{
+	display: inline-block;
+	height: 100%;
+}
+li:hover{
+	background:#B22222;
+}
+a{
+	height:60%;
+	text-decoration:none;
+	color: white;
+	margin-top: 5px;
+	display:block;
+}

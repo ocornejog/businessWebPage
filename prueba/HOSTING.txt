@@ -1,0 +1,24 @@
+Texto para lo que es la creación del hosting gratuito
+Control Panel Username: uoolo_22946554
+Control Panel Password: Hamburguesa64
+Your URL: http://oscarhost.ihostfull.com
+FTP Server: ftp.ihostfull.com
+FTP Login: uoolo_22946554
+FTP Password: Hamburguesa64
+MySQL Database Name: CREATE INSIDE CONTROL PANEL
+MySQL Username: uoolo_22946554
+MySQL Password: Hamburguesa64
+MySQL Server: SEE INSIDE CONTROL PANEL
+Mi dominio
+oscarcg.ml
+oscar9.cornejo@gmail.com
+
+FREENOM
+Your Order Number is: 5242935833
+SERVIDOR
+sql213.ihostfull.com
+  MySQL DB Name	    MySQL User Name	    MySQL Password	       MySQL Host Name	  PHPMyAdmin
+uoolo_22946554_hr	uoolo_22946554	(Your cPanel Password)	sql213.ihostfull.com	
+PHPMyAdmin
+http://185.27.134.10/db_structure.php?goto=db_sql.php&db=uoolo_22946554_hr&server=1&token=0546166a528fde6c64c551b81ada8eed
+cpanel.ihostfull.com
